@@ -1,4 +1,7 @@
 require_relative 'grocer'
+require 'pry'
+
+
 
 def items
 	[
